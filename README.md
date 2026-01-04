@@ -1,5 +1,20 @@
 # Buzzanator-daily
-Buzz
+
+Buzzanator Daily License
+
+© 2025 Fredrick D. Flowers  
+Buzzomatic Intelligence LLC
+
+All rights reserved.
+
+This repository and its contents are proprietary.
+Permission is granted for personal use by the owner only.
+
+No redistribution, modification, automation, or commercial use
+is permitted without explicit written authorization from the owner.
+
+Buzzanator Mode is a protected personal system.
+
 🧠 WHAT IS NOW CONSIDERED “LOCKED”
 ✅ Concept & Framework
 Buzzanator Mode (Daily Rhythm)
