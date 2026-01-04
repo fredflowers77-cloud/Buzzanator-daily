@@ -54,7 +54,9 @@ Right now:
 But:
 
 ✅ The structure is defined
+
 ✅ The content is finalized
+
 ✅ The system is stable
 
 Nothing is lost. Nothing is floating.
